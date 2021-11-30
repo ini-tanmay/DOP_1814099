@@ -6,4 +6,7 @@ array[i]  =  Integer.parseInt(args[i]);
 }
 Arrays.sort(array); System.out.println(Arrays.toString(array));
 }
+
+
+
 }
